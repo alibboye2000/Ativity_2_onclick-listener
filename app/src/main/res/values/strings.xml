@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity_2</string>
+    <string name="login">login</string>
+    <string name="pwd">password</string>
+    <string name="okBtn">btnlogin</string>
+    <string name="edemail">edemail</string>
+</resources>
